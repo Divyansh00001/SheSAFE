@@ -32,7 +32,7 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.prabhu.womensafetyapp.MainActivity" />
-        </activity>
+        </activity >
         <activity
             android:name="com.prabhu.womensafetyapp.Display"
             android:label="@string/title_activity_display"
