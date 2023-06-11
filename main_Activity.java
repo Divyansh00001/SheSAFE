@@ -18,7 +18,6 @@ public class MainActivity extends Activity {
 	public void register(View v) {
 		Intent i_register=new Intent(MainActivity.this,Register.class);
 		startActivity(i_register);
-		
 	}
 	
 public void display_no(View v) {
